@@ -11,7 +11,7 @@ const input = document.querySelector ("input")
 
 //crear objeto con etiquetas html
 console.log({
-    h1,
+    h1,             
     p,
     parrafo2,
     parrafo3,
